@@ -2,7 +2,7 @@
 
 Economics and Statistics student at the University of Toronto with interests in asset management, credit markets, financial econometrics, and international economic policy.
 
-## Selected Research & Projects
+## Selected Research
 
 ### CDS Spreads, Equity Volatility, and Economic Policy Uncertainty
 
