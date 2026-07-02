@@ -23,7 +23,7 @@ Selected macroeconomic research reports covering interest rates, inflation, cent
 
 [UofT Economics Newsletter](https://newsletter.economics.utoronto.ca/learning-applying-and-leading-with-macroeconomics-undergraduate-economics-student-bruno-sullivan/)
 
-[Global Macroeconomic Outlooks](https://www.vertigeinvestmentgroup.com/research)
+[Global Macroeconomic Outlooks](https://www.vertigeinvestmentgroup.com/Global%20Macro%20Update%20November_23_2024.pdf)
 
 [Sample of weekly MarketPulse](https://www.linkedin.com/pulse/marketpulse-special-edition-november-15th-2024-1vmze/)
 
