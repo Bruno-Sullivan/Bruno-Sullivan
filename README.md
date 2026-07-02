@@ -35,7 +35,7 @@ Economic and sectoral research on Canadian provincial markets, trade flows, FDI,
 
 **Focus areas:** Canada-Italy bilateral trade, provincial economic analysis, FDI, sector forecasting, market-entry strategy  
 
-[Manitoba report](https://www.ice.it/it/sites/default/files/inline-files/Manitoba%20updated%20080825.pdf)
+[Provincial Profiles (Manitoba and New Brunswick)](https://www.ice.it/it/mercati/canada/profili-province)
 
-[New Brunswick report](https://www.ice.it/it/sites/default/files/inline-files/NEW%20BRUNSWICK%202025.pdf)
+
 
