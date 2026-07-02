@@ -15,7 +15,7 @@ Econometric research project studying the relationship between firm-level CDS sp
 
 ---
 
-### Vertige Global Macroeconomic Reports
+### Vertige Investment Group
 
 Selected macroeconomic research reports covering interest rates, inflation, central bank policy, FX, sovereign risk, and geopolitical developments, from my time at Vertige.
 
