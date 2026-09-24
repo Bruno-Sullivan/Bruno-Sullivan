@@ -29,14 +29,6 @@ Selected macroeconomic research reports covering interest rates, inflation, cent
 
 ---
 
-### Italian Trade Agency Research
-
-Economic and sectoral research on Canadian provincial markets, trade flows, FDI, and market-entry opportunities for Italian firms.
-
-**Focus areas:** Canada-Italy bilateral trade, provincial economic analysis, FDI, sector forecasting, market-entry strategy  
-
-[Provincial Profiles (Manitoba and New Brunswick)](https://www.ice.it/it/mercati/canada/profili-province)
-
 ### Python Market Dashboard
 
 Live tracker of key U.S. and Canadian financial indicators across asset classes
